@@ -83,6 +83,10 @@ lakukan perubahan pada filter_carousel agar dapat mengaplikasikan filter ke gamb
 
 ![alt text](ss/image-4.png)
 
+hasil : 
+![alt text](ss/image-5.png)
+
+
 ## Jelaskan maksud void async pada praktikum 1?
 
 ```
